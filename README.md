@@ -5,8 +5,9 @@ A curated collection of frontend resources including UI libraries, extensions, d
 ## Table of Contents
 1. [UI Libraries](#ui-libraries)
 2. [ShadCN Plugins and Extensions](#shadcn-plugins-and-extensions)
-3. [Frontend Tools and Components](#frontend-tools-and-components)
-4. [Contributing](#contributing)
+3. [Icons & SVGs](#icons--svgs)
+4. [Frontend Tools and Components](#frontend-tools-and-components)
+5. [Contributing](#contributing)
 
 ---
 
@@ -14,9 +15,9 @@ A curated collection of frontend resources including UI libraries, extensions, d
 
 A collection of popular UI libraries for various frameworks.
 
-- [ShadCN](https://ui.shadcn.com/) - Beautifully designed components that you can copy and paste into your apps.
 - [Aeternity UI](https://ui.aceternity.com/) - Copy-paste the most trending React components without having to worry about styling and animations.
 - [Magic UI](https://magicui.design/) - React components to build beautiful landing pages using Tailwind CSS + Framer Motion + Shadcn/UI.
+- [ShadCN](https://ui.shadcn.com/) - Beautifully designed components that you can copy and paste into your apps.
 - [Origin UI](https://originui.com/) - Beautiful UI components built with Tailwind CSS and Next.js. Origin UI is an extensive collection of copy-and-paste components for quickly building app UIs. It's free, open-source, and ready to drop into your projects.
 
 ---
@@ -26,9 +27,18 @@ A collection of popular UI libraries for various frameworks.
 Enhance your ShadCN experience with these useful plugins and extensions.
 
 - [Shadcn Cal](https://shadcn-cal-com.vercel.app/) - A copy of the monthly calendar used by Cal.com with Shadcn UI, Radix Colors, and React Aria.
-- [shadcn/ui expansions](https://shadcnui-expansions.typeart.cc/) - More components built on top of shadcn-ui. Useful additional components collection based on shadcn/ui to help you ship new features faster. Copy and paste into your apps, accessible, customizable, open source.
-- [Extend your component library](https://shadcn-extension.vercel.app/) - Discover new possibilities with the extended Shadcn UI library. More components, more layouts, more creativity.
+- [shadcn/ui expansions](https://shadcnui-expansions.typeart.cc/) - Additional components built on top of shadcn-ui to help you ship new features faster.
+- [Extend your component library](https://shadcn-extension.vercel.app/) - Discover new possibilities with the extended Shadcn UI library.
 - [Enhanced Button](https://enhanced-button.vercel.app/) - Enhanced version of the shadcn-button component.
+
+---
+
+### Icons & SVGs
+
+A selection of high-quality icons and SVG libraries to enhance your UI.
+
+- [Pqoqubbw Icons](https://icons.pqoqubbw.dev/) - Beautifully crafted, animated icons with a toggle theme feature. Check out the [repo](https://icons.pqoqubbw.dev/).
+- [SVGlide](https://svglide.vercel.app/) - A collection of 331 beautifully crafted SVG icons from Lucide for React applications. Accessible and customizable.
 
 ---
 
