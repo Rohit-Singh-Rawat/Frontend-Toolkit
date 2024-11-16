@@ -30,6 +30,7 @@ Enhance your ShadCN experience with these useful plugins and extensions.
 - [shadcn/ui expansions](https://shadcnui-expansions.typeart.cc/) - Additional components built on top of shadcn-ui to help you ship new features faster.
 - [Extend your component library](https://shadcn-extension.vercel.app/) - Discover new possibilities with the extended Shadcn UI library.
 - [Enhanced Button](https://enhanced-button.vercel.app/) - Enhanced version of the shadcn-button component.
+- [Shadcn Form Builder](https://shadcn-form-build.vercel.app/) - Build forms faster with Shadcn, react-hook-form, and Zod within minutes.
 
 ---
 
