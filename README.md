@@ -31,6 +31,7 @@ Enhance your ShadCN experience with these useful plugins and extensions.
 - <a href="https://shadcn-extension.vercel.app/" target="_blank" rel="noopener noreferrer">Extend your component library</a> - Discover new possibilities with the extended Shadcn UI library.
 - <a href="https://enhanced-button.vercel.app/" target="_blank" rel="noopener noreferrer">Enhanced Button</a> - Enhanced version of the shadcn-button component.
 - <a href="https://shadcn-form-build.vercel.app/" target="_blank" rel="noopener noreferrer">Shadcn Form Builder</a> - Build forms faster with Shadcn, react-hook-form, and Zod within minutes.
+- <a href="https://shadcn-phone-input.vercel.app/" target="_blank" rel="noopener noreferrer">Shadcn Phone Input</a> - An implementation of a Phone Input component for React, built on top of Shadcn UI's input component.
 
 ---
 
