@@ -49,6 +49,7 @@ A selection of high-quality icons and SVG libraries to enhance your UI.
 Explore these tools and components for frontend development.
 
 - <a href="https://number-flow.barvian.me/" target="_blank" rel="noopener noreferrer">Number Flow</a> - A component to transition, format, and localize numbers. Dependency-free, accessible, and customizable.
+- <a href="https://realfavicongenerator.net/" target="_blank" rel="noopener noreferrer">RealFaviconGenerator</a> - Generate the perfect favicon for all platforms and devices without hassle.
 
 ---
 
