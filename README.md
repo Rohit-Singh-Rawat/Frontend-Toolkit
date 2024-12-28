@@ -19,6 +19,7 @@ A collection of popular UI libraries for various frameworks.
 - <a href="https://magicui.design/" target="_blank" rel="noopener noreferrer">Magic UI</a> - React components to build beautiful landing pages using Tailwind CSS + Framer Motion + Shadcn/UI.
 - <a href="https://ui.shadcn.com/" target="_blank" rel="noopener noreferrer">ShadCN</a> - Beautifully designed components that you can copy and paste into your apps.
 - <a href="https://originui.com/" target="_blank" rel="noopener noreferrer">Origin UI</a> - Beautiful UI components built with Tailwind CSS and Next.js. Origin UI is an extensive collection of copy-and-paste components for quickly building app UIs. It's free, open-source, and ready to drop into your projects.
+- <a href="https://motion-primitives.com/" target="_blank" rel="noopener noreferrer">Motion Primitives</a> - A UI kit to create beautiful, animated interfaces faster.
 
 ---
 
