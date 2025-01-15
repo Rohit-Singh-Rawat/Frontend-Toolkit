@@ -15,12 +15,13 @@ A curated collection of frontend resources including UI libraries, extensions, d
 
 A collection of popular UI libraries for various frameworks.
 
-- <a href="https://ui.aceternity.com/" target="_blank" rel="noopener noreferrer">Aeternity UI</a> - Copy-paste the most trending React components without having to worry about styling and animations.
+- <a href="https://ui.aceternity.com/" target="_blank" rel="noopener noreferrer">Aceternity UI</a> - Copy-paste the most trending React components without having to worry about styling and animations.
 - <a href="https://magicui.design/" target="_blank" rel="noopener noreferrer">Magic UI</a> - React components to build beautiful landing pages using Tailwind CSS + Framer Motion + Shadcn/UI.
 - <a href="https://ui.shadcn.com/" target="_blank" rel="noopener noreferrer">ShadCN</a> - Beautifully designed components that you can copy and paste into your apps.
 - <a href="https://originui.com/" target="_blank" rel="noopener noreferrer">Origin UI</a> - Beautiful UI components built with Tailwind CSS and Next.js. Origin UI is an extensive collection of copy-and-paste components for quickly building app UIs. It's free, open-source, and ready to drop into your projects.
 - <a href="https://motion-primitives.com/" target="_blank" rel="noopener noreferrer">Motion Primitives</a> - A UI kit to create beautiful, animated interfaces faster.
 - <a href="https://21st.dev/" target="_blank" rel="noopener noreferrer">21st.dev</a> - An open-source community registry of React UI components. Publish minimal Tailwind & Radix UI components and install any component via `npx shadcn`.
+- <a href="https://www.fancycomponents.dev/" target="_blank" rel="noopener noreferrer">Fancy Components</a> - Make your website lovely with a growing library of ready-to-use React components and microinteractions. Free and open source.
 
 ---
 
